@@ -8,8 +8,8 @@
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <meta name="keywords" content="">
         <meta name="description" content="">
-        <meta name="author" content="The OEN Project and Filip Todorov (web designer)">
-        <title>OEN - A Globally Interoperable Blockchain for Identity</title>
+        <meta name="author" content="The Xttcoin Project and Filip Todorov (web designer)">
+        <title>Xttcoin - A Globally Interoperable Blockchain for Identity</title>
         <link rel="shortcut icon" href="img/favicon.png" />
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -45,7 +45,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="img/logo-svg.png">&nbsp;&nbsp;&nbsp;&nbsp; OEN</a>
+                    <a class="navbar-brand" href="index.html"><img src="img/logo-svg.png">&nbsp;&nbsp;&nbsp;&nbsp; Xttcoin</a>
                 </div>
                
                 <!--/.nav-collapse -->
@@ -59,12 +59,12 @@
                     <div class="col-sm-8 col-sm-offset-2 text-center">
                         <a class="logo" href="#">
                             <img src="img/logo-svg.png">
-                            OEN
+                            Xttcoin
                         </a>
                         <h3>A Globally Interoperable Blockchain for Identity</h3>
                     </div>
                     <div class="col-sm-6 col-sm-offset-3 text-center">
-                        <h4>OEN is a secure, privacy-preserving, and cost-effective way for you to control and manage your identity on the Web.</h4>
+                        <h4>Xttcoin is a secure, privacy-preserving, and cost-effective way for you to control and manage your identity on the Web.</h4>
                         
                     </div>
                 </div>
@@ -75,7 +75,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1>OEN is a fit-for-purpose blockchain optimized for identity on the Web.</h1>
+                        <h1>Xttcoin is a fit-for-purpose blockchain optimized for identity on the Web.</h1>
                         <h2>Human dignity demands that every individual be able to participate equally in our increasingly digital society. Everyone deserves the ability to create and administer unique, globally resolvable identifiers.</h2>
                     </div>
                 </div>
@@ -124,27 +124,27 @@
                     <div class="col-sm-6 col-sm-offset-3">
                         <div class="tabs-area">
                             <div class="tab active">
-                                <p>Blockchains enable us to reduce identifier management costs through shared common infrastructure. OEN is optimized for identity, which further reduces costs. As a result, network operating costs and fees are a fraction of those of general-purpose blockchains like Bitcoin and Ethereum.</p>
+                                <p>Blockchains enable us to reduce identifier management costs through shared common infrastructure. Xttcoin is optimized for identity, which further reduces costs. As a result, network operating costs and fees are a fraction of those of general-purpose blockchains like Bitcoin and Ethereum.</p>
                             </div>
                             <div class="tab">
-                                <p>Unlike many other blockchain networks, OEN does not use a scarce network token.
+                                <p>Unlike many other blockchain networks, Xttcoin does not use a scarce network token.
                                   This removes price volatility and regulatory risks associated with speculative token networks.
-                                  OEN charges low, stable fees that decrease as the network scales.</p>
+                                  Xttcoin charges low, stable fees that decrease as the network scales.</p>
                             </div>
                             <div class="tab">
                                 <p>Distributed systems enable competitors to cooperate on common infrastructure.
-                                  These systems naturally resist centralization, surveillance, and censorship, which are threats to identity. OEN utilizes decentralized technology and governance to protect your identifiers.</p>
+                                  These systems naturally resist centralization, surveillance, and censorship, which are threats to identity. Xttcoin utilizes decentralized technology and governance to protect your identifiers.</p>
                             </div>
                             <div class="tab">
                                 <p>Blockchains store data in a way that is publicly auditable.
                                   Bank-grade cryptography further protects data by making it extremely tamper-resistant.</p>
                             </div>
                             <div class="tab">
-                                <p>Privacy by design is a guiding principle of the OEN blockchain. It minimizes the amount of data shared with third parties and allows people to determine what to share and with whom.
-                                  OEN is well-suited to address the European Union's General Data Protection Regulation (GDPR).</p>
+                                <p>Privacy by design is a guiding principle of the Xttcoin blockchain. It minimizes the amount of data shared with third parties and allows people to determine what to share and with whom.
+                                  Xttcoin is well-suited to address the European Union's General Data Protection Regulation (GDPR).</p>
                             </div>
                             <div class="tab">
-                                <p>OEN supports a wide spectrum of identity management use cases.
+                                <p>Xttcoin supports a wide spectrum of identity management use cases.
                                   Any person or organization may create and control their identifiers, aggregate personal data, and determine their data storage location and accessibility.</p>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2">
-                        <h2>The OEN Network is public.<br>Anyone can participate!</h2>
+                        <h2>The Xttcoin Network is public.<br>Anyone can participate!</h2>
                     </div>
                 </div>
             </div>
@@ -169,15 +169,15 @@
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3">
                         <h1>Global Public Utility</h1>
-                        <h2>OEN is a global public utility for individuals, enterprises, and governments.</h2>
+                        <h2>Xttcoin is a global public utility for individuals, enterprises, and governments.</h2>
                     </div>
                     <div class="clearfix"></div>
                     <div class="col-sm-4">
                         <img src="img/icons/icons8-customer-2.svg">
                         <h3>Individuals</h3>
-                        <p>OEN is designed to put people in control of their own identity information.
+                        <p>Xttcoin is designed to put people in control of their own identity information.
                           Individuals can aggregate digital credentials about themselves from various parties and decide how to share them.
-                          OEN gives people the independence to freely change services without losing their online identity.
+                          Xttcoin gives people the independence to freely change services without losing their online identity.
                         </p>
                     </div>
                     <div class="col-sm-4">
@@ -190,7 +190,7 @@
                     <div class="col-sm-4">
                         <img src="img/icons/icons8-museum-2.svg">
                         <h3>Governments</h3>
-                        <p>OEN provides interoperable identity management infrastructure that enables citizens to connect with separate government services using the same digital credentials.</p>
+                        <p>Xttcoin provides interoperable identity management infrastructure that enables citizens to connect with separate government services using the same digital credentials.</p>
                     </div>
                 </div>
             </div>
@@ -201,7 +201,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-sm-offset-3">
                         <h1>Sectors</h1>
-                        <h2>The OEN Blockchain can be used across a wide spectrum of identity management use cases.</h2>
+                        <h2>The Xttcoin Blockchain can be used across a wide spectrum of identity management use cases.</h2>
                     </div>
                     <div class="clearfix"></div>
                     <div class="col-sm-4">
@@ -213,7 +213,7 @@
                     <div class="col-sm-4">
                         <img src="img/icons/icons8-hospital-3.svg" class="new-icon">
                         <h3>Healthcare</h3>
-                        <p>OEN enables disparate entities across the healthcare system to exchange verifiable identity data.
+                        <p>Xttcoin enables disparate entities across the healthcare system to exchange verifiable identity data.
                           Physician licenses, digital prescriptions, and medical records are just a few examples of identity data that can be interoperably shared and verified.</p>
                     </div>
                     <div class="col-sm-4">
@@ -227,17 +227,17 @@
                         <img src="img/icons/icons8-volunteering.svg" class="new-icon">
                         <h3>Underserved</h3>
                         <p>Over one billion people worldwide are unable to prove their identity. This restricts their access to financial services, education, and healthcare.
-                          Providing the underserved with OEN identifiers helps service organizations coordinate aid.</p>
+                          Providing the underserved with Xttcoin identifiers helps service organizations coordinate aid.</p>
                     </div>
                     <div class="col-sm-4">
                         <img src="img/icons/icons8-cargo-ship.svg" class="new-icon">
                         <h3>Trade</h3>
-                        <p>With OEN, every trade entity in a complex economy can be more strongly authenticated, reducing fraud, friction, and transit time across supply chains.</p>
+                        <p>With Xttcoin, every trade entity in a complex economy can be more strongly authenticated, reducing fraud, friction, and transit time across supply chains.</p>
                     </div>
                     <div class="col-sm-4">
                         <img src="img/icons/icons8-user-groups%20(1).svg" class="new-icon">
                         <h3>Social</h3>
-                        <p>Decentralized social networks, peer-to-peer messaging apps, and sharing economy apps can benefit from OEN features such as user
+                        <p>Decentralized social networks, peer-to-peer messaging apps, and sharing economy apps can benefit from Xttcoin features such as user
                             centricity and data portability.</p>
                     </div>
                 </div>
@@ -250,14 +250,14 @@
                     <div class="col-sm-5">
                         <h1>Become an Accelerator</h1>
                         <p class="lead">Accelerators provide a new revenue stream for businesses.</p>
-                        <p>Accelerators enable customers to rapidly write to the OEN blockchain while creating a new income stream for existing businesses.</p>
+                        <p>Accelerators enable customers to rapidly write to the Xttcoin blockchain while creating a new income stream for existing businesses.</p>
                         <p>Examples of Accelerators include registrars, governments, credential issuers, and digital wallet providers.</p>
                         <p>Anyone who accepts the <a style="color: white; font-weight: bold;" href="/agreements/accelerator/">Accelerator Agreement</a> may become an Accelerator.</p>
                     </div>
                     <div class="col-sm-5 col-sm-offset-2">
                         <h1>Run a Node</h1>
-                        <p class="lead">Get paid for participating in the OEN network.</p>
-                        <p>A large number of nodes run by a variety of entities is essential for the health and security of the network. Nodes are financially compensated by the OEN Project for their contribution to the network.</p>
+                        <p class="lead">Get paid for participating in the Xttcoin network.</p>
+                        <p>A large number of nodes run by a variety of entities is essential for the health and security of the network. Nodes are financially compensated by the Xttcoin Project for their contribution to the network.</p>
                         <p>As the system is permissionless, any person or organization may run a node.</a>
                         <p>Electors are expected to follow the guidelines in the <a style="color: white; font-weight: bold;" href="/agreements/elector/">Elector Agreement</a>.</p>
                     </div>
@@ -281,7 +281,7 @@
                                     <div class="slide">
                                         <div class="row">
                                             <div class="col-sm-6 col-sm-offset-3">
-                                                <p>You can get a OEN identifier in as little as three minutes.</p>
+                                                <p>You can get a Xttcoin identifier in as little as three minutes.</p>
                                             </div>
                                             <div class="col-sm-6 col-sm-offset-3">
                                                 <img src="img/Diagram%201-Mobile.svg" width="100%">
@@ -291,7 +291,7 @@
                                     <div class="slide">
                                         <div class="row">
                                             <div class="col-sm-6 col-sm-offset-3">
-                                                <p>Issuers associate credentials with your OEN identifier. You can then store those credentials in your digital wallet. A verifier, such as a website, will then ask you for your credentials when you sign in.</p>
+                                                <p>Issuers associate credentials with your Xttcoin identifier. You can then store those credentials in your digital wallet. A verifier, such as a website, will then ask you for your credentials when you sign in.</p>
                                             </div>
                                             <div class="col-sm-6 col-sm-offset-3">
                                                 <img src="img/Diagram%202-Mobile%20without%20Text.svg" width="50%">
@@ -344,7 +344,7 @@
                       <a href="/developers/guides/">
                         <img src="img/icons/icons8-speed.svg"></a>
                         <h2>Guides</h2>
-                        <p>Get started with OEN using these quick, fifteen-minute tutorials.</p>
+                        <p>Get started with Xttcoin using these quick, fifteen-minute tutorials.</p>
                     </div>
                 </div>
             </div>
@@ -355,8 +355,8 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h1>Contact Us</h1>
-                        <h2 style="opacity: 0.8;font-weight: 300;margin:40px 0px;">Contact us with any questions or if you wish to participate in the OEN Network.</h2>
-                        <h3><a style="color: white; font-weight: bold;" href="mailto:xtt@OEN.com?subject=[OEN]">xtt@OEN.com</a></h3>
+                        <h2 style="opacity: 0.8;font-weight: 300;margin:40px 0px;">Contact us with any questions or if you wish to participate in the Xttcoin Network.</h2>
+                        <h3><a style="color: white; font-weight: bold;" href="mailto:xtt@xttcoin.com?subject=[Xttcoin]">xtt@xttcoin.com</a></h3>
                     </div>
                 </div>
             </div>
